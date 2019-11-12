@@ -4,10 +4,10 @@ Test Automation projects for Petstore API
 Testing Framework:
 Selected CRUD operations for Smoke test:
 
-  > POST /pet - Add a new pet to the store
-  > GET - /pet/{petId}  - Find pet by ID
-  > PUT /pet - Update an existing pet
-  > DELETE /pet/{petId}  - Deletes a pet
+  POST /pet - Add a new pet to the store
+  GET - /pet/{petId}  - Find pet by ID
+  PUT /pet - Update an existing pet
+  DELETE /pet/{petId}  - Deletes a pet
 
 For the given Petsore API, the best way of framework for testing is to create a flow.
 
