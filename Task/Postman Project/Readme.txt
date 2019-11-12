@@ -1,6 +1,5 @@
 To execute the Postman project :
 
-Browse : https://github.com/pradeepkumar22/test2
 Download the Petstore Automation_Postman.postman_collection and Petstore_GlobalVariable.postman_environment from GitHub
 Import the project in Postman tool (Open source)
 Click on the arrow in the right side and choose RUN option.
