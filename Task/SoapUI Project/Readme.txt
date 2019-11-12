@@ -1,6 +1,5 @@
 To execute the SoapUI project :
 
-Browse : https://github.com/pradeepkumar22/test2
 Download the Petstore project from GitHub
 Import the project in SoapUI (Open source)
 Expand the project and "Flow" test suite
