@@ -38,3 +38,8 @@ Browse : https://github.com/pradeepkumar22/Petstore_Test-Automation-projects/tre
 To execute the Postman project :
 
 Browse : https://github.com/pradeepkumar22/Petstore_Test-Automation-projects/tree/master/Task/Postman%20Project
+
+To execute the TestNG project :
+
+Browse : https://github.com/pradeepkumar22/Petstore_Test-Automation-projects/tree/master/Task/PetstoreAPI_RestAssured
+
